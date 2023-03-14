@@ -3,6 +3,6 @@ public class Ejemplo {
         System.out.println("HOLA MUNDO");
         String cadena = "XD";
         System.out.println(cadena);
-        System.out.print("Chupame los cocos");
+        System.out.print("XD O xd");
     }
 }
